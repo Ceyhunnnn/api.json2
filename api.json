@@ -1,0 +1,28 @@
+[
+  {
+    "kitap_Ad": "Bir İdam Mahkumunun Son Günü",
+    "yazar": "Victor Hugo",
+    "s_sayi": 132
+  },
+  {
+    "kitap_Ad": "Bir Delinin Hatıra Defteri",
+    "yazar": "Nikolay Vasilyeviç Gogol",
+    "s_sayi": 125
+  },
+  {
+    "kitap_Ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "s_sayi": 80
+  },
+  {
+    "kitap_Ad": "Şeytan Ayrıntıda Gizlidir",
+    "yazar": "Ahmet Ümit",
+    "s_sayi": 200
+  },
+  {
+    "kitap_Ad": "Dokuzuncu Hariciye Koğuşu",
+    "yazar": "Peyami Safa",
+    "s_sayi": 112
+  }
+]
+
